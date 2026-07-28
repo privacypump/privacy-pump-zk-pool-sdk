@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-zk-pool-sdk",
+  "description": "TypeScript codecs and transaction builders for the Privacy Pump ZK Pool reference.",
+  "maturity": "Research/reference; not production-ready",
+  "network": "Local research only",
+  "topics": ["privacy-pump", "typescript", "sdk", "zero-knowledge", "zk"],
+  "visibility": "public-after-verification"
+}
